@@ -29,7 +29,7 @@ li{
     /* height:100px;
     width:100%; */
     display: flex;
-    justify-content: space-between;
+    justify-content:space-around
 }
 .header img{
     height:100px;
